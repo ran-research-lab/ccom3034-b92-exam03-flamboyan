@@ -2,7 +2,7 @@
 #include <iostream>
 #include "catch.hpp"
 
-
+// Rafa
 using namespace std;
 
 // function isFlamboyan:
