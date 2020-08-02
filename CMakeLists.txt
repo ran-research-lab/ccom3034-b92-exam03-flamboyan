@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.1)
 project(flamboyan)
 include_directories("/home/rarce/Dropbox/ccom3034-b92")
 set(CMAKE_CXX_STANDARD 14)
