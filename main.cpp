@@ -10,6 +10,10 @@ using namespace std;
 //   if tree is a flamboyan.
 bool isFlamboyan(const vector<int> &v) {
     // TODO: implement
+    int a;
+    a = 10;
+    int b = 11;
+    b = a + b;
     return true;
 }
 
